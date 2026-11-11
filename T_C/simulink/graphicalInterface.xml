@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GraphicalInterface>
+  <P Name="NumRootInports">0</P>
+  <P Name="NumRootOutports">0</P>
+  <P Name="ParameterArgumentNames"/>
+  <P Name="NumModelReferences">0</P>
+  <P Name="NumTestPointedSignals">0</P>
+  <P Name="NumProvidedFunctions">0</P>
+  <P Name="NumRequiredFunctions">0</P>
+  <P Name="NumResetEvents">0</P>
+  <P Name="HasInitializeEvent">0</P>
+  <P Name="HasTerminateEvent">0</P>
+  <P Name="IsExportFunctionModel">0</P>
+  <P Name="NumParameterArguments">0</P>
+  <P Name="NumExternalFileReferences">8</P>
+  <ExternalFileReference>
+    <P Name="Reference">fuzblock/Fuzzy Logic 
+Controller</P>
+    <P Name="Path">$bdroot/Fuzzy Logic  Controller</P>
+    <P Name="SID">5</P>
+    <P Name="Type">LIBRARY_BLOCK</P>
+  </ExternalFileReference>
+  <ExternalFileReference>
+    <P Name="Reference">vrlib/VR Sink</P>
+    <P Name="Path">$bdroot/VR Visualization</P>
+    <P Name="SID">38</P>
+    <P Name="Type">LIBRARY_BLOCK</P>
+  </ExternalFileReference>
+  <ExternalFileReference>
+    <P Name="Reference">simulink/Sources/Ramp</P>
+    <P Name="Path">$bdroot/input command/Ramp</P>
+    <P Name="SID">61</P>
+    <P Name="Type">LIBRARY_BLOCK</P>
+  </ExternalFileReference>
+  <ExternalFileReference>
+    <P Name="Reference">simulink/Sources/Ramp</P>
+    <P Name="Path">$bdroot/input command/Ramp1</P>
+    <P Name="SID">63</P>
+    <P Name="Type">LIBRARY_BLOCK</P>
+  </ExternalFileReference>
+  <ExternalFileReference>
+    <P Name="Reference">simulink/Sources/Ramp</P>
+    <P Name="Path">$bdroot/input command/Ramp2</P>
+    <P Name="SID">86</P>
+    <P Name="Type">LIBRARY_BLOCK</P>
+  </ExternalFileReference>
+  <ExternalFileReference>
+    <P Name="Reference">simulink/Sources/Ramp</P>
+    <P Name="Path">$bdroot/input command/Ramp3</P>
+    <P Name="SID">87</P>
+    <P Name="Type">LIBRARY_BLOCK</P>
+  </ExternalFileReference>
+  <ExternalFileReference>
+    <P Name="Reference">simulink/Sources/Ramp</P>
+    <P Name="Path">$bdroot/input command/Ramp4</P>
+    <P Name="SID">92</P>
+    <P Name="Type">LIBRARY_BLOCK</P>
+  </ExternalFileReference>
+  <ExternalFileReference>
+    <P Name="Reference">simulink/Sources/Ramp</P>
+    <P Name="Path">$bdroot/input command/Ramp5</P>
+    <P Name="SID">93</P>
+    <P Name="Type">LIBRARY_BLOCK</P>
+  </ExternalFileReference>
+  <P Name="OrderedModelArguments">1</P>
+</GraphicalInterface>
