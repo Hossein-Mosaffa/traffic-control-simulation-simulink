@@ -167,3 +167,5 @@ The original Persian course report names a few sets slightly differently from `R
 ## Authors
 
 Hossein Mosaffa, Seyed Hesam Salehnejad, and Ali Nikhalat Jahromi, for the Computational Intelligence course taught by Dr. Abdollahi at Amirkabir University of Technology (Tehran Polytechnic).
+
+[Hossein Mosaffa's personal website](https://hossein-mosaffa.github.io)
